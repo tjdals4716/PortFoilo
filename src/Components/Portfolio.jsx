@@ -19,7 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+
+// 3. 증명사진
+import image from "../images/song2.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -29,6 +31,8 @@ const imageAltText = "desktop with books and laptop";
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
+
+// 4. 포트폴리오 사이트 (프로젝트 깃허브 사이트 등 올릴 것)
 const projectList = [
   {
     title: "10 Things To Know About Azure Static Web Apps 🎉",

@@ -16,6 +16,8 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
+
+// 2. 두 번째 이미지 변경
 import image from "../images/motion-background.jpg";
 
 const imageAltText = "purple and blue abstract background";
@@ -30,6 +32,8 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
+
+// 5. 스킬셋, 사용가능한, 사용중인 스킬 올릴 것
 const skillsList = [
   "Web design",
   "User experience",
