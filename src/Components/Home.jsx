@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 
 // 1. 맨 위 프로필 이미지
-import image from "../images/song1.jpeg";
+import image from "../images/song3.jpeg";
 
 const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 

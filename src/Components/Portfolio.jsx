@@ -35,28 +35,28 @@ const imageAltText = "desktop with books and laptop";
 // 4. 포트폴리오 사이트 (프로젝트 깃허브 사이트 등 올릴 것)
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "CapstoneDesign Team Project - DoVote",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a team project that we did during the school's capstone design session",
+    url: "https://github.com/l0o0lv/Do-Vote",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SoftwareEngineering Project - OlymPick",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project was carried out during the school software engineering lecture",
+    url: "https://github.com/OlymPick",
   },
   {
-    title: "My Resume Site",
+    title: "LikeLion Central Hackton - Smile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is a central hackathon team project by LikeLion club group in Seoul",
+    url: "https://github.com/MangoWafflee",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "VentureStartup Academy Hackathon - Innovoters",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is a team project hackathon under the supervision of a venture start-up",
+    url: "https://github.com/Team-Innovator",
   },
 ];
 
