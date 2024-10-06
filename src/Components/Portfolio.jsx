@@ -35,27 +35,27 @@ const imageAltText = "desktop with books and laptop";
 // 4. 포트폴리오 사이트 (프로젝트 깃허브 사이트 등 올릴 것)
 const projectList = [
   {
-    title: "CapstoneDesign Team Project - DoVote",
+    title: "CapstoneDesign Team Project",
     description:
-      "This is a team project that we did during the school's capstone design session",
+      "This is an in-school capstone design project that was carried out from 2023.09.01 ~ 2024.06.23 The theme is Voting Community, which established servers and databases of community web/apps through voting",
     url: "https://github.com/l0o0lv/Do-Vote",
   },
   {
-    title: "SoftwareEngineering Project - OlymPick",
+    title: "SoftwareEngineering Project",
     description:
-      "This project was carried out during the school software engineering lecture",
+      "This is an in-school software engineering project that was carried out from 2024.03.01 ~ 2024.06.23. With the theme of the upcoming Paris Olympics, we created the project by differentiating existing Olympic shopping malls, collaborations with famous athletes, and auctions",
     url: "https://github.com/OlymPick",
   },
   {
-    title: "LikeLion Central Hackton - Smile",
+    title: "LikeLion Central Hackton",
     description:
-      "This is a central hackathon team project by LikeLion club group in Seoul",
+      "This is a central hackathon project organized by LikeLion, a club held at the Yangjae at Center in Seoul from 2024.08.06 ~ 2024.08.07. Under the theme of 'Solving Health Problems of Modern People' we developed a system that provides laughter to users by linking laughter and dopamine and rewards users who laugh a lot",
     url: "https://github.com/MangoWafflee",
   },
   {
-    title: "VentureStartup Academy Hackathon - Innovoters",
+    title: "VentureStartup Academy Hackathon",
     description:
-      "This is a team project hackathon under the supervision of a venture start-up",
+      "This is a venture start-up academy hackathon project organized by venture start-ups from 2024.08.13 ~ 2024.08.14. Under the theme of 'Start-Up Problem Solving' we developed an AI service under the theme of interaction between influencer and companies",
     url: "https://github.com/Team-Innovator",
   },
 ];
